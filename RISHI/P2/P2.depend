@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1790241605 source:c:\users\student.aimllab-47\desktop\rishi\p2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1790244398 source:c:\users\student.aimllab-47\desktop\rishi\p2\program3.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<math.h>
+
